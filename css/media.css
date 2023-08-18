@@ -341,7 +341,7 @@
   }
 
   .about__card-1 {
-    background-image: url(/img/about1024.jpg);
+    background-image: url(./img/about1024.jpg);
     max-width: 924px;
     width: 100%;
     min-height: 640px;
@@ -494,7 +494,7 @@
   }
 
   /* .swiper-slide {
-    background-image: url(/img/hero1024.jpg);
+    background-image: url(./img/hero1024.jpg);
   } */
 
   .hero__content {
@@ -524,7 +524,7 @@
   }
 
   .about__card-1 {
-    background-image: url(/img/about768.jpg);
+    background-image: url(./img/about768.jpg);
     max-width: 668px;
     min-height: 650px;
   }
@@ -728,7 +728,7 @@
   }
 
   .about__card-1 {
-    background-image: url(/img/about320.jpg);
+    background-image: url(./img/about320.jpg);
     background-repeat: no-repeat;
     margin-right: 0;
     height: 0;
